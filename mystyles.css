@@ -1,0 +1,30 @@
+  
+  body { background-color: yellow;
+       }
+     h1 { color: blue;
+        }
+     p { color: blue;
+       }
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+
+.Dept {
+       background-color: tomato;
+       color: white;
+       border: 1px solid black;
+       margin: 20px;
+       padding: 20px;
+       float:right;
+       width:30%;
+       }
+       
+#myHeader {
+           background-color: lightblue;
+           color: black;
+           padding: 40px;
+           text-align: center; }
