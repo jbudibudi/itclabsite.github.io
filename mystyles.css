@@ -27,4 +27,19 @@ th, td {
            background-color: lightblue;
            color: black;
            padding: 40px;
-           text-align: center; }
+           text-align: center;
+           }
+#navBar {
+         background-color: #666666;
+         color: white;
+           padding: 15px;
+           text-align: center; 
+     
+         }
+#footer {
+         background-color: #666666;
+         color: white;
+           padding: 15px;
+           text-align: right;
+           }
+     
